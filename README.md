@@ -1,6 +1,6 @@
 # Apparel Recommendation System
 
-<h2>Author: KISHAN MISHRA</h2>
+<h2>Author: Sanikesh Mohanty</h2>
 <ul>
 <li>Built a deep learning based apparel recommendation system on Myntra Dataset.
 <li>Built using ResNet-50, OpenCV, KNN algorithm and streamlit.
@@ -11,7 +11,7 @@ TEST RESULTS
 <h4> Without Background Filter</h4>
 <img src="https://github.com/KishanMishra1/apparel_rcs/blob/main/Screenshot%202022-05-22%20at%208.19.21%20PM.png?raw=true"/>
 
-<h2>Sanikesh Mohanty (Friend)</h2>
+<h2>Me</h2>
 <img src="https://github.com/KishanMishra1/apparel_rcs/blob/main/Screenshot%202022-05-23%20at%208.58.27%20AM.png?raw=true"/>
 
 <h2>Aparna Mohanty(Friend)</h2>
